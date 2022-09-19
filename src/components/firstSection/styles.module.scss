@@ -79,6 +79,15 @@
       background: linear-gradient(0deg, rgba(231,184,67,1) 35%, rgba(0,212,255,0) 100%);
     }
 
+    .retangleEffectFirstSection2{
+      position: absolute;
+      width: 100%;
+      margin-top: 40rem;
+      height: 310px;
+
+      background-color: #2c2e68;
+    }
+
   }
 }
 
@@ -87,6 +96,15 @@
     position: absolute;
     margin-top: -13rem;
     user-select: none;
+  }
+
+  .retangleEffectFirstSection2{
+    position: absolute;
+    width: 100%;
+    margin-top: 40rem;
+    height: 310px;
+    display: none;
+    background-color: #2c2e68;
   }
 
   .abstractFirstSection {

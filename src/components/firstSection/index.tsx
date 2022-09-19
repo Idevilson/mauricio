@@ -49,6 +49,7 @@ export function FirstSection(){
                     />
 
                 </div>
+                <div className={styles.retangleEffectFirstSection2} />
                 <div className={styles.retangleEffectFirstSection} />
                 <div className={styles.abstractFirstSection2}>
                     <Image
@@ -59,6 +60,7 @@ export function FirstSection(){
                         quality={100}
                     />
                 </div>
+
 
 
 
