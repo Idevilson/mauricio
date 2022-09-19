@@ -1,0 +1,124 @@
+@media only screen and (min-width: 768px) {
+  .peopleFourthSection {
+    position: absolute;
+    width: 100%;
+    height: 555px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #fcb100;
+
+    width: 100%;
+    height: 554px;
+
+    .imageContainer {
+      margin: 1rem;
+    }
+
+    .images {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+
+  .containerMobile {
+    display: none;
+
+    .peopleFourthSectionMobile {
+      display: none;
+    }
+
+    .backgroundAbstractMobile {
+      display: none;
+    }
+
+    .backgroundAbstractPeopleMobile {
+      display: none;
+    }
+    .imageContainerMobile {
+      display: none;
+    }
+
+    .imagesMobile {
+      display: none;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .peopleFourthSection {
+    display: none;
+  }
+
+  .container {
+    display: none;
+
+    .backgroundAbstractMobile{
+      display: none;
+    }
+
+    .backgroundAbstractPeopleMobile{
+      display: none;
+    }
+    .imageContainer {
+      display: none;
+    }
+
+    .images {
+      display: none;
+    }
+  }
+
+  .peopleFourthSectionMobile {
+    display: flex;
+    position: absolute;
+    width: 1080px;
+    height: 555px;
+    overflow: hidden;
+  }
+
+  .containerMobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #fcb100;
+
+    width: 1080px;
+    height: 3117px;
+
+    .backgroundAbstractMobile {
+      position: absolute;
+      height: 3117px;
+      width: 1080px;
+    }
+
+    .backgroundAbstractPeopleMobileMobile {
+      position: absolute;
+      height: 600px;
+      width: 1080px;
+      margin-top: -180rem;
+    }
+    .imageContainerMobile:nth-child(2){
+      margin-top: 10rem;
+    }
+
+    .imageContainerMobile:nth-child(3){
+      margin-top: 5rem;
+    }
+
+    .imagesMobile {
+      display: flex;
+      flex: 1;
+      background-color: #04be4c;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
