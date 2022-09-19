@@ -21,7 +21,7 @@ function CarouselItem1() {
                 <h2 className={styles.text}>
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
-                    Ipsum has been the industry's <br/>
+                    Ipsum has been the industrys <br/>
                     standard dummy text ever since the 1500s
                 </h2>
 
@@ -60,7 +60,7 @@ function CarouselItem2() {
                 <h2 className={styles.text}>
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
-                    Ipsum has been the industry's <br/>
+                    Ipsum has been the industrys <br/>
                     standard dummy text ever since the 1500s
                 </h2>
             </div>
