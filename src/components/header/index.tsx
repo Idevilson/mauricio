@@ -9,7 +9,7 @@ export function Header() {
             <div className={styles.headerContent}>
                 <div className={styles.socialIconsContainer}>
                             <div className={styles.socialIcon}>
-                                <Link href="https://www.instagram.com/valtoniapalmas">
+                                <Link href="/">
 
                                     <a target="_blank">
                                         <Image
@@ -22,7 +22,7 @@ export function Header() {
                             </div>
 
                             <div className={styles.socialIcon}>
-                                <Link href="https://www.facebook.com/Valtonia.palmas">
+                                <Link href="/">
                                     <a  target="_blank">
                                         <Image
                                             src="/assets/header/facebook.png"
@@ -34,7 +34,7 @@ export function Header() {
                             </div>
 
                             <div className={styles.socialIcon}>
-                                <Link href="https://wa.me/556392213395">
+                                <Link href="/">
                                     <a  target="_blank">
                                         <Image
                                             src="/assets/header/whatsapp.png"

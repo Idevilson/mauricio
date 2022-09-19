@@ -22,7 +22,7 @@ function CarouselItem1() {
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
                     Ipsum has been the industry's <br/>
-                    standard dummy text ever since the 1500s,
+                    standard dummy text ever since the 1500s
                 </h2>
 
             </div>
@@ -61,7 +61,7 @@ function CarouselItem2() {
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
                     Ipsum has been the industry's <br/>
-                    standard dummy text ever since the 1500s,
+                    standard dummy text ever since the 1500s
                 </h2>
             </div>
             <div className={styles.footer}>
@@ -99,7 +99,7 @@ function CarouselItem3() {
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
                     Ipsum has been the industry's <br/>
-                    standard dummy text ever since the 1500s,
+                    standard dummy text ever since the 1500s
                 </h2>
             </div>
             <div className={styles.footer}>
@@ -137,7 +137,7 @@ function CarouselItem4() {
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
                     Ipsum has been the industry's <br/>
-                    standard dummy text ever since the 1500s,
+                    standard dummy text ever since the 1500s
                 </h2>
             </div>
             <div className={styles.footer}>
@@ -175,7 +175,7 @@ function CarouselItem5() {
                     is simply dummy text of the printing <br/>
                     and typesetting industry. Lorem <br/>
                     Ipsum has been the industry's <br/>
-                    standard dummy text ever since the 1500s,
+                    standard dummy text ever since the 1500s
                 </h2>
             </div>
             <div className={styles.footer}>
