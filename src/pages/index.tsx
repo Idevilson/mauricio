@@ -13,7 +13,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Deputada Federal Maurício Willian</title>
+        <title>Deputado Federal Maurício Willian</title>
           <meta name="description" content="Página Oficial Do Deputado Federal Maurício Willian" />
             <link rel="icon" href="/Users/ID/Desktop/valtonia/public/favicon.ico" />
       </Head>
