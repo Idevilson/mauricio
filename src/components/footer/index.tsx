@@ -27,7 +27,7 @@ export function Footer() {
                     />
                     <div className={styles.socialIconsContainer}>
                             <div className={styles.alignIcons}>
-                                <Link href="https://www.instagram.com/valtoniapalmas">
+                                <Link href="">
                                     <a>
                                         <Image
                                             src="/assets/header/instagram.png"
@@ -40,7 +40,7 @@ export function Footer() {
                             </div>
 
                             <div className={styles.alignIcons}>
-                                <Link href=" https://www.facebook.com/Valtonia.palmas">
+                                <Link href="">
                                     <Image
                                         src="/assets/header/facebook.png"
                                         alt="ícone do facebook"
@@ -50,7 +50,7 @@ export function Footer() {
                                 </Link>
                             </div>
                             <div className={styles.alignIcons}>
-                                <Link href="https://wa.me/556392213395">
+                                <Link href="">
                                     <Image
                                         src="/assets/header/whatsapp.png"
                                         alt="ícone do whatsapp"
