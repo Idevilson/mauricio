@@ -21,6 +21,21 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+
+        h1{
+          color: #ffffff;
+          font-family: "Montserrat";
+          font-size: 34px;
+          font-weight: bold;
+          font-style: normal;
+          letter-spacing: normal;
+          line-height: 62.48px;
+          text-align: center;
+          /* Text style for "Sou mulher" */
+          font-style: normal;
+          letter-spacing: -0.18px;
+          line-height: normal;
+        }
       }
       .bodyContent {
         display: flex;
@@ -142,7 +157,7 @@
 
   .containerMobile {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     flex-direction: column;
     margin-top: 8rem;
 
@@ -200,18 +215,18 @@
           z-index: 1;
 
           margin-left: 17rem;
-          margin-top: 9.8rem;
+          margin-top: 6.8rem;
           position: absolute;
         }
         .leftContainerMobile {
-          margin-top: 19.5rem;
+          margin-top: 16.5rem;
           width: 300px;
 
           display: flex;
           justify-content: flex-start;
         }
         .rightContainerMobile {
-          margin-top: 19.5rem;
+          margin-top: 16.5rem;
           width: 300px;
 
           display: flex;

@@ -12,7 +12,7 @@ export function FirstSection(){
                         src="/assets/firstSection/abstract.png"
                         alt="efeito"
                         layout={"fill"}
-                        objectFit={"fill"}
+                        objectFit={"cover"}
                         quality={100}
                     />
                 </div>

@@ -36,13 +36,9 @@ export function SecondSection() {
                             height={43}
                             quality={100}
                         />
-                        <Image
-                            src="/assets/secondSection/Text.png"
-                            alt="efeito"
-                            width={719}
-                            height={44}
-                            quality={100}
-                        />
+                       <h1>
+                           Maurício William
+                       </h1>
                     </div>
 
                     <div className={styles.bodyContent}>
@@ -118,8 +114,8 @@ export function SecondSection() {
                         SOBRE MIM
                     </h1>
                     <h1>
-                        Do Taquari para o Tocantins. <br/>
-                        É gente nossa!
+                        Maurício William
+
                     </h1>
                 </div>
                 <div className={styles.carousel}>
