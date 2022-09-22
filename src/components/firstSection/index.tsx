@@ -18,8 +18,6 @@ export function FirstSection(){
                 </div>
 
 
-
-
                 <div className={styles.slogan}>
                     <Image
                         src="/assets/firstSection/EGenteNossa.png"
